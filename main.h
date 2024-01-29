@@ -15,7 +15,7 @@ int printf_char(va_list args, int printed);
 /**/
 int printf_string(va_list args, int printed);
 
-/**/
+/*integer.c*/
 int printf_integer(va_list args, int printed);
 
 /**/
