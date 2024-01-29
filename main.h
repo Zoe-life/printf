@@ -27,7 +27,7 @@ int printf_binary(unsigned int num, int printed);
 /*0-format.c*/
 int _printf(const char *format, ...);
 
-/**/
+/*hex.c*/
 int _x(unsigned int num, int printed, int uppercase);
 
 /*octal.c*/
