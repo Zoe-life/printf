@@ -12,7 +12,7 @@ int _putchar(char character);
 /**/
 int printf_char(va_list args, int printed);
 
-/**/
+/*string.c*/
 int printf_string(va_list args, int printed);
 
 /*integer.c*/
@@ -21,7 +21,7 @@ int printf_integer(va_list args, int printed);
 /**/
 int selector(const char *format, va_list args, int printed);
 
-/**/
+/*binary.c*/
 int printf_binary(unsigned int num, int printed);
 
 /*0-format.c*/
