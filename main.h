@@ -33,7 +33,7 @@ int _x(unsigned int num, int printed, int uppercase);
 /*octal.c*/
 int printf_octal(unsigned int num, int printed);
 
-/**/
+/*unsigned.c*/
 int printf_unsigned(unsigned int num, int printed);
 
 /*reverse.c*/
