@@ -2,7 +2,7 @@
 
 /**
  * printf_string - prints a string
- * @args: numberof arguements
+ * @args: number of arguements
  * @printed: the printed characters
  * Return: printed charcaters
  */
